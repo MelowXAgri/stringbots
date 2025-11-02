@@ -8,11 +8,11 @@
   },
   "admin": {
     "admin_ids": [
-      111111111
+      7830551403
     ]
   },
   "bot_target": {
-    "username": "YourBot",
+    "username": "GENERATEQRSBOT",
     "commands": {
       "v1": "/addv1",
       "v2": "/addv2",
