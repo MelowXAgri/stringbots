@@ -1,9 +1,9 @@
 {
   "telegram": {
-    "api_id": 1234567,
-    "api_hash": "YOUR_API_HASH",
+    "api_id": 23386959,
+    "api_hash": "d931c5bf7b404972112805cd621474cb",
     "session": "data/usher.session",
-    "string_session": "",
+    "string_session": "1BVtsOGoBu3q-Il8FM46kXTrlrA9QAzvlJV-Ep9c8uVxOOCUWCW5vK6S9hMfnOYISdwpmTt82dcp1rEyfk1WbQ5qR6rRX5f5vptP9KSUKw02jP3-2-r4g41L3finfvTOWfQsRJgfyHRn_VaMimLJIQUyyEUnDhszwVeTA5mK1tIZGqGtjcwmmMR0GOScm0EG8gNt-YEaMTFWNdrJWxUCc28W5B6ZPeEqOexHEBMw3fNECzjC5GD8ntUoI1tgXFUzQaEMylVMWXVt5wPJAlCPoHYjspXtYkQVrjoVkIY7oZsgJy5O_sf-q1cxZAkLSExuoWh9PneVyYcAC3EZKV2BcWcNBs51PWdc=",
     "prefer_string_session": true
   },
   "admin": {
@@ -29,9 +29,9 @@
   },
   "vip_invite": {
     "map": {
-      "linkv1": -1001111111111,
-      "linkv2": -1002222222222,
-      "linkv3": -1003333333333
+      "linkv1": -1002797728250,
+      "linkv2": -1002666991595,
+      "linkv3": -1003099178684
     },
     "ttl_sec": 86400,
     "limit": 1,
